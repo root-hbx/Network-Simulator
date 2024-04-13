@@ -17,7 +17,8 @@
     - ns-3 的 Data Collection
     - ns-3 复盘思考
 - mininet
-    - mininet walkthrough
+    - mininet Configuration of Environment
+    - mininet Walkthrough
 
 ## Workspace
 > Here we offer some materials to begin the detailed configuration, and it's simultaneous with the tutorial above
